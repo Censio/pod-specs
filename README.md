@@ -1,2 +1,2 @@
-# internal-pod-specs
-Internal Cocoapod Spec Repo
+# pod-specs
+Cocoapod Spec Repo
