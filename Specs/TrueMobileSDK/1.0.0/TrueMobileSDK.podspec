@@ -16,15 +16,7 @@ Pod::Spec.new do |s|
   s.requires_arc = true
   s.source       = { :http => 'https://censiodev.artifactoryonline.com/censiodev/cocoapods-local/TrueMobileSDK/TrueMobileSDK-1.0.0.zip' }
 
-  s.subspec 'DynamicLibrary' do |dynamicLibrarySubspec|
-    dynamicLibrarySubspec.vendored_frameworks = "TrueMobileSDK/TrueMobileSDK.framework"
-  end
-
-  s.subspec 'StaticLibrary' do |staticLibrarySubspec|
-    staticLibrarySubspec.vendored_frameworks = "TrueMobileSDK/TrueMobileSDK.framework"
-  end
-
-  s.default_subspec = 'DynamicLibrary'
+  s.vendored_frameworks = "TrueMobileSDK/TrueMobileSDK.framework"
   s.swift_version = '4.2'
 
   # TrueMotion
