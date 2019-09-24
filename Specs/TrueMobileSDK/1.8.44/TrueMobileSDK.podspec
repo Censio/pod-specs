@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "TrueMobileSDK"
-  s.version      = "2019.09.24"
+  s.version      = "1.8.44"
   s.summary      = "TrueMobileSDK"
 
   s.description  = <<-DESC
