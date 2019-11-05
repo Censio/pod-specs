@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
 
   s.frameworks   = 'CoreML'
   s.libraries    = 'c++'
-  s.platform     = :ios, '11.0'
+  s.platform     = :ios, '10.0'
   s.resources    = ['Pablo.framework/*.json', 'Pablo.framework/*.mlmodel']
   s.vendored_frameworks = 'Pablo.framework'
 
