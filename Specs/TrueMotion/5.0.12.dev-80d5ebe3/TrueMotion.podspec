@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   
   s.platform     = :ios, "9.0"
   s.requires_arc = true
-  s.source       = { :http => 'https://censiodev.artifactoryonline.com/censiodev/cocoapods-local/TrueMotion/TrueMotion-dev-80d5ebe3.zip' }
+  s.source       = { :http => 'https://censiodev.jfrog.io/censiodev/cocoapods-local/TrueMotion/TrueMotion-dev-80d5ebe3.zip' }
 
   s.vendored_frameworks = "TrueMotion/TrueMotion.framework"
   s.swift_version = '4.2'
