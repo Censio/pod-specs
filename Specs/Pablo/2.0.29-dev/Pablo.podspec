@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.license      = { :type => 'Private', :text => '' }
   s.author       = 'TrueMotion'
 
-  s.source       = { :http => 'https://censiodev.artifactoryonline.com/censiodev/cocoapods-local/Pablo/Pablo-2.0.29-dev.tar.gz' }
+  s.source       = { :http => 'https://censiodev.jfrog.io/censiodev/cocoapods-local/Pablo/Pablo-2.0.29-dev.tar.gz' }
 
   s.frameworks   = 'CoreML'
   s.libraries    = 'c++'
