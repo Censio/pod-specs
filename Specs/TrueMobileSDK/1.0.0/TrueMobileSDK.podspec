@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.source       = { :http => 'https://censiodev.jfrog.io/censiodev/cocoapods-local/TrueMobileSDK/TrueMobileSDK-1.0.0.zip' }
 
   s.vendored_frameworks = "TrueMobileSDK/TrueMobileSDK.framework"
-  s.swift_version = '4.2'
+  s.swift_version = '5.0'
 
   # TrueMotion
   s.dependency 'TrueMobileCoreSDK', "#{s.version}"
