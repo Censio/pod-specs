@@ -1,5 +1,5 @@
 {
-  "1.0.0": "https://censiodev.jfrog.io/censiodev/cocoapods-local/TrueMobileSDK/TrueMobileSDK-Carthage-1.0.0.zip",
+  "1.0.0": "https://s3.us-west-2.amazonaws.com/downloads.cens.io/TrueMobileSDK/TrueMobileSDK-Carthage-1.0.0.zip",
   "2019.09.13": "https://s3.us-west-2.amazonaws.com/downloads.cens.io/TrueMobileSDK/TrueMobileSDK-Carthage-2019.09.13.zip",
   "1.0.19": "https://s3.us-west-2.amazonaws.com/downloads.cens.io/TrueMobileSDK/TrueMobileSDK-Carthage-1.0.19.zip",
   "2019.10.0122": "https://censiodev.jfrog.io/censiodev/cocoapods-local/TrueMobileSDK/TrueMobileSDK-Carthage-2019.10.0122.zip",
