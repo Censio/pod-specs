@@ -14,13 +14,13 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, "10.0"
   s.requires_arc = true
-  s.source       = { :http => 'https://s3.us-west-2.amazonaws.com/downloads.cens.io/TrueMobileSDK/TrueMobileSDK-2020.03.2300.zip' }
+  s.source       = { :http => 'https://s3.us-west-2.amazonaws.com/downloads.cens.io/TrueMobileSDK/TrueMobileSDK-2020.04.01.zip' }
 
   s.vendored_frameworks = "TrueMobileSDK/TrueMobileSDK.framework"
   s.swift_version = '5.0'
 
   # TrueMotion
-  s.dependency 'TrueMobileCoreSDK', "2020.04.01-b1cece5"
+  s.dependency 'TrueMobileCoreSDK', "2020.04.01"
 
   # CocoaPods
   s.dependency 'Analytics', '~> 3.6.10'
