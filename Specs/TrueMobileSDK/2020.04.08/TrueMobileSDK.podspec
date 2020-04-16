@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   s.swift_version = '5.0'
 
   # TrueMotion
-  s.dependency 'TrueMobileCoreSDK', "2020.04.01"
+  s.dependency 'TrueMobileCoreSDK', "2020.04.08"
 
   # Static Framework
   s.static_framework = true
