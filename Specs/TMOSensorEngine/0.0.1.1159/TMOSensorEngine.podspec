@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.source       = { :http => 'https://censiodev.jfrog.io/censiodev/cocoapods-local/TMOSensorEngine/TMOSensorEngine-0.0.1.1159.zip' }
   s.vendored_frameworks = "TMOSensorEngine/TMOSensorEngine.framework"
   s.requires_arc = true
-  s.swift_version = "5.0"
+  s.swift_version = "5.1"
   s.dependency "Pablo", "~> 2.2"
   s.dependency "FMDB"
   s.dependency "CocoaLumberjack/Swift"
