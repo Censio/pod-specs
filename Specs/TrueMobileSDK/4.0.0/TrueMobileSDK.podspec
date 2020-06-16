@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, "10.0"
   s.requires_arc = true
-  s.source       = { :http => 'https://s3.us-west-2.amazonaws.com/downloads.cens.io/TrueMobileSDK/TrueMobileSDK-4.0.0.zip' }
+  s.source       = { :http => 'https://dl.bintray.com/censio/iOS/TrueMobileSDK/4.0.0/CocoaPods/TrueMobileSDK-4.0.0.zip' }
 
   s.vendored_frameworks = "TrueMobileSDK/TrueMobileSDK.framework"
   s.swift_version = '5.0'
