@@ -664,5 +664,6 @@
   "2020.04.20-00cf0fe": "https://censiodev.jfrog.io/censiodev/cocoapods-local/TrueMobileCoreSDK/TrueMobileCoreSDK-Carthage-2020.04.20-00cf0fe.zip",
   "2020.05.19": "https://s3.us-west-2.amazonaws.com/downloads.cens.io/TrueMobileCoreSDK/TrueMobileCoreSDK-Carthage-2020.05.19.zip",
   "2020.04.20": "https://s3.us-west-2.amazonaws.com/downloads.cens.io/TrueMobileCoreSDK/TrueMobileCoreSDK-Carthage-2020.04.20.zip",
-  "4.0.0": "https://dl.bintray.com/censio/iOS/TrueMobileCoreSDK/4.0.0/Carthage/TrueMobileCoreSDK-Carthage-4.0.0.zip"
+  "4.0.0": "https://dl.bintray.com/censio/iOS/TrueMobileCoreSDK/4.0.0/Carthage/TrueMobileCoreSDK-Carthage-4.0.0.zip",
+  "4.0.0-313": "https://censiodev.jfrog.io/censiodev/cocoapods-local/TrueMobileCoreSDK/TrueMobileCoreSDK-Carthage-4.0.0-313.zip"
 }
