@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.author       = { "TrueMotion" => "mobile@gotruemotion.com" }
   s.platform     = :ios, "11.0"
   s.ios.deployment_target = "11.0"
-  s.source       = { :http => 'https://censiodev.jfrog.io/censiodev/cocoapods-local/TMOSensorEngine/TMOSensorEngineQA-0.0.1.1298-dev.zip' }
+  s.source       = { :http => 'https://censiodev.jfrog.io/censiodev/cocoapods-local/TMOSensorEngine/0.0.1.1298-dev/TMOSensorEngineQA/TMOSensorEngineQA-0.0.1.1298-dev.zip' }
   s.vendored_frameworks = "TMOSensorEngineQA/TMOSensorEngineQA.framework"
   s.requires_arc = true
   s.swift_version = "5.1"
