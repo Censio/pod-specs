@@ -1,0 +1,26 @@
+Pod::Spec.new do |s|
+
+  s.name         = "TrueMobileCoreSDK"
+  s.version      = "3.0.6"
+  s.summary      = "TrueMobileCoreSDK"
+
+  s.description  = <<-DESC
+                   SDK developed to manage networking and session.
+                   DESC
+  s.homepage     = "https://gotruemotion.com"
+
+  s.license      = { :type => "Private", :text => '' }
+  s.author       = { "TrueMotion" => "mobile@gotruemotion.com" }
+
+  s.platform     = :ios, "10.0"
+  s.requires_arc = true
+  s.source       = { :http => 'https://s3.us-west-2.amazonaws.com/downloads.cens.io/TrueMobileCoreSDK/TrueMobileCoreSDK-3.0.6.zip' }
+
+  s.vendored_frameworks = "TrueMobileCoreSDK/TrueMobileCoreSDK.framework"
+  s.swift_version = '4.2'
+  s.static_framework = true
+
+  # CocoaPods
+  s.dependency 'Cache', '~> 5.2.0'
+  s.dependency 'RxSwift', '~> 5.0.0'
+end
