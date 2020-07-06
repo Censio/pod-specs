@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.vendored_frameworks = "TMOSensorEngineQA/TMOSensorEngineQA.framework"
   s.requires_arc = true
   s.swift_version = "5.1"
-  s.dependency "Pablo", "~> 2.6.0-beta1"
+  s.dependency "Pablo", "~> 2.5.0"
   s.dependency "FMDB", '~> 2.7.0'
   s.dependency "CocoaLumberjack/Swift", '~> 3.6.0'
   s.dependency "MPMessagePack", '~> 1.5.0'
