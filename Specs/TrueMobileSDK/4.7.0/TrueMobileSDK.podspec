@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   s.swift_version = '5.0'
 
   # TrueMotion
-  s.dependency 'TrueMobileCoreSDK', "4.1.0"
+  s.dependency 'TrueMobileCoreSDK', "4.2.0"
 
   # CocoaPods
   s.dependency 'Analytics', '~> 3.6.10'
