@@ -5,5 +5,6 @@
   "4.101.7": "https://s3.us-west-2.amazonaws.com/downloads.cens.io/CensioKit/CensioKit-4.101.7.zip",
   "4.101.7-logging": "https://s3.us-west-2.amazonaws.com/downloads.cens.io/CensioKit/CensioKit-4.101.7-logging.zip",
   "4.101.7-logging-2": "https://s3.us-west-2.amazonaws.com/downloads.cens.io/CensioKit/CensioKit-4.101.7-logging-2.zip",
-  "4.101.7-ios14": "https://censiodev.jfrog.io/censiodev/cocoapods-local/CensioKit/CensioKit-4.101.7-ios14.zip"
+  "4.101.7-ios14": "https://censiodev.jfrog.io/censiodev/cocoapods-local/CensioKit/CensioKit-4.101.7-ios14.zip",
+  "4.101.7-ios14xcode11": "https://censiodev.jfrog.io/censiodev/cocoapods-local/CensioKit/CensioKit-4.101.7-ios14xcode11.zip"
 }
