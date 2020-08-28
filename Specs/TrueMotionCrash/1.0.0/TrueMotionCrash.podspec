@@ -14,6 +14,6 @@ Pod::Spec.new do |spec|
 	spec.swift_version = "5.2"
 	spec.source  = { :http => "https://censiodev.jfrog.io/censiodev/cocoapods-local/TrueMotionCrash/TrueMotionCrash-1.0.0.tar.gz" }
 	spec.vendored_frameworks = "TrueMotionCrash.framework"
-	spec.dependency 'TrueMotionCore', '1.0.0'
-	spec.dependency 'TrueMotionCommon', '1.0.0-SNAPSHOT-354'
+	spec.dependency 'TrueMotionCore', '1.4.1'
+	spec.dependency 'TrueMotionCommon', '1.0.0'
 end
