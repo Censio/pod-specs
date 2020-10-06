@@ -11,5 +11,6 @@
   "4.101.8-logging": "https://s3.us-west-2.amazonaws.com/downloads.cens.io/CensioKit/CensioKit-4.101.8-logging.zip",
   "4.101.8-logging-2": "https://s3.us-west-2.amazonaws.com/downloads.cens.io/CensioKit/CensioKit-4.101.8-logging-2.zip",
   "4.101.9-comp-logging": "https://s3.us-west-2.amazonaws.com/downloads.cens.io/CensioKit/CensioKit-4.101.9-comp-logging.zip",
-  "4.101.9-comp-logging-2": "https://s3.us-west-2.amazonaws.com/downloads.cens.io/CensioKit/CensioKit-4.101.9-comp-logging-2.zip"
+  "4.101.9-comp-logging-2": "https://s3.us-west-2.amazonaws.com/downloads.cens.io/CensioKit/CensioKit-4.101.9-comp-logging-2.zip",
+  "4.101.9-comp-logging-3": "https://s3.us-west-2.amazonaws.com/downloads.cens.io/CensioKit/CensioKit-4.101.9-comp-logging-3.zip"
 }
