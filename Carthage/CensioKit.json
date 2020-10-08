@@ -15,5 +15,6 @@
   "4.101.9-comp-logging-3": "https://s3.us-west-2.amazonaws.com/downloads.cens.io/CensioKit/CensioKit-4.101.9-comp-logging-3.zip",
   "4.101.9-comp-logging-4": "https://s3.us-west-2.amazonaws.com/downloads.cens.io/CensioKit/CensioKit-4.101.9-comp-logging-4.zip",
   "4.101.9-buildScriptFix": "https://dl.bintray.com/censio/iOS/CensioKit/4.101.9-buildScriptFix/Carthage/CensioKit-4.101.9-buildScriptFix.zip",
-  "4.101.9": "https://dl.bintray.com/censio/iOS/CensioKit/4.101.9/Carthage/CensioKit-4.101.9.zip"
+  "4.101.9": "https://dl.bintray.com/censio/iOS/CensioKit/4.101.9/Carthage/CensioKit-4.101.9.zip",
+  "4.101.9-comp-logging-5": "https://s3.us-west-2.amazonaws.com/downloads.cens.io/CensioKit/CensioKit-4.101.9-comp-logging-5.zip"
 }
