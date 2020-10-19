@@ -750,5 +750,6 @@
   "4.12.1.7301": "https://censiodev.jfrog.io/censiodev/cocoapods-local/TrueMobileSDK/TrueMobileSDK-Carthage-4.12.1.7301.zip",
   "4.12.1.7315": "https://censiodev.jfrog.io/censiodev/cocoapods-local/TrueMobileSDK/TrueMobileSDK-Carthage-4.12.1.7315.zip",
   "4.12.1.7302": "https://censiodev.jfrog.io/censiodev/cocoapods-local/TrueMobileSDK/TrueMobileSDK-Carthage-4.12.1.7302.zip",
-  "4.12.1.7303": "https://censiodev.jfrog.io/censiodev/cocoapods-local/TrueMobileSDK/TrueMobileSDK-Carthage-4.12.1.7303.zip"
+  "4.12.1.7303": "https://censiodev.jfrog.io/censiodev/cocoapods-local/TrueMobileSDK/TrueMobileSDK-Carthage-4.12.1.7303.zip",
+  "4.12.2": "https://dl.bintray.com/censio/iOS/TrueMobileSDK/4.12.2/Carthage/TrueMobileSDK-Carthage-4.12.2.zip"
 }
