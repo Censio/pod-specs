@@ -27,5 +27,6 @@
   "4.101.12": "https://s3.us-west-2.amazonaws.com/downloads.cens.io/CensioKit/CensioKit-4.101.12.zip",
   "4.101.10-comp-logging-9": "https://s3.us-west-2.amazonaws.com/downloads.cens.io/CensioKit/CensioKit-4.101.10-comp-logging-9.zip",
   "4.101.10-lifecycle-swizzle": "https://s3.us-west-2.amazonaws.com/downloads.cens.io/CensioKit/CensioKit-4.101.10-lifecycle-swizzle.zip",
-  "4.101.10-comp-logging-10": "https://s3.us-west-2.amazonaws.com/downloads.cens.io/CensioKit/CensioKit-4.101.10-comp-logging-10.zip"
+  "4.101.10-comp-logging-10": "https://s3.us-west-2.amazonaws.com/downloads.cens.io/CensioKit/CensioKit-4.101.10-comp-logging-10.zip",
+  "4.101.10-comp-logging-11": "https://s3.us-west-2.amazonaws.com/downloads.cens.io/CensioKit/CensioKit-4.101.10-comp-logging-11.zip"
 }
