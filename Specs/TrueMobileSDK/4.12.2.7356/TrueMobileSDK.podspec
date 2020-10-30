@@ -21,8 +21,8 @@ Pod::Spec.new do |s|
   s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' } 
 
   # TrueMotion
-  s.dependency 'TrueMotionCore', '~> 1.7.0'
-  s.dependency 'TrueMotionCommon', '1.1.0-SNAPSHOT-2113'
+  s.dependency 'TrueMotionCore', '2.2.0'
+  s.dependency 'TrueMotionCommon', '1.1.0-SNAPSHOT-2217'
 
   # CocoaPods
   s.dependency 'Analytics', '~> 3.6.10'
