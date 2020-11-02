@@ -18,5 +18,5 @@
   "4.101.13-silent-push": "https://s3.us-west-2.amazonaws.com/downloads.cens.io/CensioKit/CensioKit-4.101.13-silent-push.zip",
   "4.101.13-simulate-signout-bug": "https://s3.us-west-2.amazonaws.com/downloads.cens.io/CensioKit/CensioKit-4.101.13-simulate-signout-bug.zip",
   "4.101.13-signout-fix": "https://s3.us-west-2.amazonaws.com/downloads.cens.io/CensioKit/CensioKit-4.101.13-signout-fix.zip",
-  "4.101.14": "https://censiodev.jfrog.io/censiodev/cocoapods-local/CensioKit/CensioKit-4.101.14.zip"
+  "4.101.14": "https://s3.us-west-2.amazonaws.com/downloads.cens.io/CensioKit/CensioKit-4.101.14.zip"
 }
