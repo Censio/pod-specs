@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.dependency 'TrueMobileCoreSDK', "4.4.0"
 
   # CocoaPods
-  s.dependency 'Analytics', '~> 3.6.10'
+  s.dependency 'Analytics', '~> 4.1.2'
   s.dependency 'Cache', '~> 5.3.0'
   s.dependency 'Kingfisher', '~> 5.14.0'
   s.dependency 'KTVJSONWebToken', '~> 2.1.0'
