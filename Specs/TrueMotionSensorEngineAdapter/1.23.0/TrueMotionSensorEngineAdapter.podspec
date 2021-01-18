@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
                      DESC
 	spec.homepage = "https://gotruemotion.com"
 	spec.module_name = "TrueMotionSensorEngineAdapter"
-	spec.license = { :type => 'Private', :text => 'Copyright (C) 2020 TrueMotion, Inc. All rights reserved.' }
+	spec.license = { :type => 'Private', :text => 'Copyright (C) 2021 TrueMotion, Inc. All rights reserved.' }
 	spec.author = 'TrueMotion'
 	spec.platform = :ios, "11.0"
 	spec.swift_version = "5.3"
