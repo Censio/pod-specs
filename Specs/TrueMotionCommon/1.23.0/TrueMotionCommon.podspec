@@ -8,15 +8,14 @@ Pod::Spec.new do |spec|
                      DESC
 	spec.homepage = "https://gotruemotion.com"
 	spec.module_name = "TrueMotionCommon"
-	spec.license = { :type => 'Private', :text => 'Copyright (C) 2020 TrueMotion, Inc. All rights reserved.' }
+	spec.license = { :type => 'Private', :text => 'Copyright (C) 2021 TrueMotion, Inc. All rights reserved.' }
 	spec.author = 'TrueMotion'
 	spec.platform = :ios, "11.0"
 	spec.swift_version = "5.3"
 	spec.source  = { :http => "https://censiodev.jfrog.io/censiodev/cocoapods-local/TrueMotionCommon/TrueMotionCommon-1.23.0.tar.gz" }
 	spec.vendored_frameworks = "TrueMotionCommon.framework"
-    spec.dependency 'RxSwift', '6.0.0-rc.1'
     spec.dependency 'RealmSwift', '~> 10.1'
     spec.dependency 'Realm', '~> 10.1'
-    spec.dependency 'TrueMotionCore', '~> 2.6.1'
-    spec.dependency 'TrueMotionInternal', '~> 2.6.1'
+    spec.dependency 'TrueMotionCore', '~> 2.7'
+    spec.dependency 'TrueMotionInternal', '~> 2.7'
 end
