@@ -33,7 +33,7 @@ Pod::Spec.new do |s|
   s.dependency 'KTVJSONWebToken', '~> 2.1.0'
   s.dependency 'PhoneNumberKit', '~> 2.6.0'
   s.dependency 'RNCryptor', '~> 5.1.0'
-  s.dependency 'RxSwift', '6.0.0-rc.1'
+  s.dependency 'RxSwift', '~> 6.0'
   s.dependency 'SDCAlertView', '~> 10.0.0'
   s.dependency 'SideMenu', '~> 5.0.3'
   s.dependency 'Yams', '~> 2.0.0'
