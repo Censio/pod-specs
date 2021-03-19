@@ -1,3 +1,5 @@
 {
-  "2.8.0": "https://censiodev.jfrog.io/censiodev/cocoapods-local/TrueMotionCore/TrueMotionCore-2.8.0.tar.gz"
+  "2.8.0": "https://censiodev.jfrog.io/censiodev/cocoapods-local/TrueMotionCore/TrueMotionCore-2.8.0.tar.gz",
+  "3.0.0": "https://censiodev.jfrog.io/censiodev/cocoapods-local/TrueMotionCore/TrueMotionCore-3.0.0.tar.gz",
+  "4.1.0-SNAPSHOT-1026": "https://censiodev.jfrog.io/censiodev/cocoapods-local/TrueMotionCore/TrueMotionCore-4.1.0-SNAPSHOT-1026.tar.gz"
 }
