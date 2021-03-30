@@ -16,4 +16,5 @@ Pod::Spec.new do |spec|
 	spec.vendored_frameworks = "TrueMotionCore.framework"
 	spec.dependency 'RxSwift', '~> 5.0'
         spec.dependency 'TrueMotionInternal', '5.0.0'
+	spec.dependency 'CocoaLumberjack/Swift', '~> 3.0'
 end
