@@ -25,5 +25,6 @@
   "4.101.15-logging-1": "https://s3.us-west-2.amazonaws.com/downloads.cens.io/CensioKit/CensioKit-4.101.15-logging-1.zip",
   "5.4.1": "https://censiodev.jfrog.io/artifactory/cocoapods-local/CensioKit/CensioKit-5.4.1.tar.gz",
   "5.5.0": "https://censiodev.jfrog.io/artifactory/cocoapods-local/CensioKit/CensioKit-5.5.0.tar.gz",
-  "5.6.0": "https://censiodev.jfrog.io/artifactory/cocoapods-local/CensioKit/CensioKit-5.6.0.tar.gz"
+  "5.6.0": "https://censiodev.jfrog.io/artifactory/cocoapods-local/CensioKit/CensioKit-5.6.0.tar.gz",
+  "5.6.1-INTERNAL-1011": "https://censiodev.jfrog.io/artifactory/cocoapods-local/CensioKit/CensioKit-5.6.1-INTERNAL-1011.tar.gz"
 }
