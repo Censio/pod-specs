@@ -21,14 +21,13 @@ Pod::Spec.new do |s|
   s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' } 
 
   # TrueMotion
-  s.dependency 'TrueMotionCommon', '~> 2.0.0'
-  s.dependency 'TrueMotionCrash', '~> 2.0.0'
-  s.dependency 'TrueMotionRecording', '~> 2.0.0'
-  s.dependency 'TrueMotionUBI', '~> 2.0.0'
-  s.dependency 'TrueMotionCore', '~> 4.1'
+  s.dependency 'TrueMotionCommon', '~> 4.0'
+  s.dependency 'TrueMotionCrash', '~> 4.0'
+  s.dependency 'TrueMotionRecording', '~> 4.0'
+  s.dependency 'TrueMotionCore', '~> 5.0'
 
   # CocoaPods
-  s.dependency 'Analytics', '4.1.2'
+  s.dependency 'Analytics', '~> 4.1.2'
   s.dependency 'Cache', '~> 5.3.0'
   s.dependency 'Kingfisher', '~> 5.14.0'
   s.dependency 'KTVJSONWebToken', '~> 2.1.0'
