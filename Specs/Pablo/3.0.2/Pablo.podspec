@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.license      = { :type => 'Private', :text => 'Copyright (C) 2018-2021 TrueMotion, Inc. All rights reserved.' }
   s.author       = 'TrueMotion'
 
-  s.source       = { :http => 'https://censiodev.jfrog.io/artifactory/ios-cocoapods-internal/Pablo/Pablo-3.0.2.tar.gz' }
+  s.source       = { :http => 'https://censiodev.jfrog.io/censiodev/cocoapods-local/Pablo/Pablo-3.0.2.tar.gz' }
 
   s.frameworks   = 'CoreML'
   s.libraries    = 'c++'
