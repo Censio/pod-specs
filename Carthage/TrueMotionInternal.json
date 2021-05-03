@@ -5,5 +5,6 @@
   "4.2.0-SNAPSHOT-1058": "https://censiodev.jfrog.io/censiodev/cocoapods-local/TrueMotionInternal/TrueMotionInternal-4.2.0-SNAPSHOT-1058.tar.gz",
   "4.2.1": "https://censiodev.jfrog.io/censiodev/cocoapods-local/TrueMotionCore/TrueMotionCore-4.2.1.tar.gz",
   "5.0.0": "https://censiodev.jfrog.io/censiodev/cocoapods-local/TrueMotionInternal/TrueMotionInternal-5.0.0.tar.gz",
-  "5.0.3": "https://censiodev.jfrog.io/censiodev/cocoapods-local/TrueMotionInternal/TrueMotionInternal-5.0.3.tar.gz"
+  "5.0.3": "https://censiodev.jfrog.io/censiodev/cocoapods-local/TrueMotionInternal/TrueMotionInternal-5.0.3.tar.gz",
+  "5.2.1": "https://censiodev.jfrog.io/censiodev/cocoapods-local/TrueMotionInternal/TrueMotionInternal-5.2.1.tar.gz"
 }
