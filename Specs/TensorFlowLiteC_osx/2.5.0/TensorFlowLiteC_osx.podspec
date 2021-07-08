@@ -13,6 +13,6 @@ Pod::Spec.new do |s|
   s.libraries    = 'c++'
   s.platform     = :osx, '10.13'
   s.vendored_frameworks = 'TensorFlowLiteC_osx.xcframework'
-  s.pod_target_xcconfig = { 'HEADER_SEARCH_PATHS' => '"${PODS_XCFRAMEWORKS_BUILD_DIR}/TensorFlowLiteC_osx/TensorFlowLiteC_osx.framework/Headers"' }
+  s.user_target_xcconfig = { 'HEADER_SEARCH_PATHS' => '"${PODS_XCFRAMEWORKS_BUILD_DIR}/TensorFlowLiteC_osx/TensorFlowLiteC_osx.framework/Headers"' }
 
 end
