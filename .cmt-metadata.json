@@ -1,0 +1,18 @@
+{
+    "name": "pod-specs",
+    "description": "",
+    "owner": "",
+    "team_owner": "",
+    "platform": "Mobile",
+    "usage": "",
+    "python3": "N/A",
+    "gitflow": {
+        "enabled": "N",
+        "version": "N/A"
+    },
+    "sonarqube_status": "",
+    "runbook": {
+        "status": "",
+        "url": ""
+    }
+}
